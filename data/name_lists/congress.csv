@@ -1,0 +1,541 @@
+,last_name,first_name,middle_name,suffix,nickname,full_name,race_ethnic_group,gender,type,state,birthday
+0,Brown,Sherrod,,,,Sherrod Brown,WO,M,sen,OH,1952-11-09
+1,Cantwell,Maria,,,,Maria Cantwell,WO,F,sen,WA,1958-10-13
+2,Cardin,Benjamin,L.,,,Benjamin L. Cardin,WO,M,sen,MD,1943-10-05
+3,Carper,Thomas,Richard,,,Thomas R. Carper,WO,M,sen,DE,1947-01-23
+4,Casey,Robert,P.,Jr.,Bob,"Robert P. Casey, Jr.",WO,M,sen,PA,1960-04-13
+5,Feinstein,Dianne,,,,Dianne Feinstein,WO,F,sen,CA,1933-06-22
+6,Klobuchar,Amy,Jean,,,Amy Klobuchar,WO,F,sen,MN,1960-05-25
+7,Menendez,Robert,,,Bob,Robert Menendez,HA,M,sen,NJ,1954-01-01
+8,Sanders,Bernard,,,Bernie,Bernard Sanders,WO,M,sen,VT,1941-09-08
+9,Stabenow,Debbie,Ann,,,Debbie Stabenow,WO,F,sen,MI,1950-04-29
+10,Tester,Jon,,,,Jon Tester,WO,M,sen,MT,1956-08-21
+11,Whitehouse,Sheldon,,,,Sheldon Whitehouse,WO,M,sen,RI,1955-10-20
+12,Barrasso,John,A.,,,John Barrasso,WO,M,sen,WY,1952-07-21
+13,Wicker,Roger,F.,,,Roger F. Wicker,WO,M,sen,MS,1951-07-05
+14,Collins,Susan,M.,,,Susan M. Collins,WO,F,sen,ME,1952-12-07
+15,Cornyn,John,,,,John Cornyn,WO,M,sen,TX,1952-02-02
+16,Durbin,Richard,J.,,,Richard J. Durbin,WO,M,sen,IL,1944-11-21
+17,Graham,Lindsey,O.,,,Lindsey Graham,WO,M,sen,SC,1955-07-09
+18,Inhofe,James,M.,,Jim,James M. Inhofe,WO,M,sen,OK,1934-11-17
+19,McConnell,Mitch,,,,Mitch McConnell,WO,M,sen,KY,1942-02-20
+20,Merkley,Jeff,,,,Jeff Merkley,WO,M,sen,OR,1956-10-24
+21,Reed,John,F.,,Jack,Jack Reed,WO,M,sen,RI,1949-11-12
+22,Risch,James,E.,,,James E. Risch,WO,M,sen,ID,1943-05-03
+23,Shaheen,Jeanne,,,,Jeanne Shaheen,WO,F,sen,NH,1947-01-28
+24,Warner,Mark,R.,,,Mark R. Warner,WO,M,sen,VA,1954-12-15
+25,Gillibrand,Kirsten,E.,,,Kirsten E. Gillibrand,WO,F,sen,NY,1966-12-09
+26,Coons,Christopher,Andrew,,,Christopher A. Coons,WO,M,sen,DE,1963-09-09
+27,Manchin,Joe,,III,,"Joe Manchin, III",WO,M,sen,WV,1947-08-24
+28,Aderholt,Robert,B.,,,Robert B. Aderholt,WO,M,rep,AL,1965-07-22
+29,Baldwin,Tammy,,,,Tammy Baldwin,WO,F,sen,WI,1962-02-11
+30,Bass,Karen,,,,Karen Bass,AF,F,rep,CA,1953-10-03
+31,Bennet,Michael,F.,,,Michael F. Bennet,WO,M,sen,CO,1964-11-28
+32,Bilirakis,Gus,M.,,,Gus M. Bilirakis,WO,M,rep,FL,1963-02-08
+33,Bishop,Sanford,D.,Jr.,,"Sanford D. Bishop, Jr.",AF,M,rep,GA,1947-02-04
+34,Blackburn,Marsha,W.,,,Marsha Blackburn,WO,F,sen,TN,1952-06-06
+35,Blumenauer,Earl,,,,Earl Blumenauer,WO,M,rep,OR,1948-08-16
+36,Blumenthal,Richard,,,,Richard Blumenthal,WO,M,sen,CT,1946-02-13
+37,Blunt,Roy,,,,Roy Blunt,WO,M,sen,MO,1950-01-10
+38,Boozman,John,,,,John Boozman,WO,M,sen,AR,1950-12-10
+39,Brady,Kevin,P.,,,Kevin Brady,WO,M,rep,TX,1955-04-11
+40,Brooks,Mo,,,,Mo Brooks,WO,M,rep,AL,1954-04-29
+41,Buchanan,Vern,,,,Vern Buchanan,WO,M,rep,FL,1951-05-08
+42,Bucshon,Larry,,,,Larry Bucshon,WO,M,rep,IN,1962-05-31
+43,Burgess,Michael,C.,,,Michael C. Burgess,WO,M,rep,TX,1950-12-23
+44,Burr,Richard,M.,,,Richard Burr,WO,M,sen,NC,1955-11-30
+45,Butterfield,George,Kenneth,Jr.,G.K.,G. K. Butterfield,AF,M,rep,NC,1947-04-27
+46,Calvert,Ken,S.,,,Ken Calvert,WO,M,rep,CA,1953-06-08
+47,Capito,Shelley,Moore,,,Shelley Moore Capito,WO,F,sen,WV,1953-11-26
+48,Carson,André,,,,André Carson,AF,M,rep,IN,1974-10-16
+49,Carter,John,R.,,,John R. Carter,WO,M,rep,TX,1941-11-06
+50,Cassidy,Bill,,,,Bill Cassidy,WO,M,sen,LA,1957-09-28
+51,Castor,Kathy,,,,Kathy Castor,WO,F,rep,FL,1966-08-20
+52,Chabot,Steve,J.,,,Steve Chabot,WO,M,rep,OH,1953-01-22
+53,Chu,Judy,M.,,,Judy Chu,AS,F,rep,CA,1953-07-07
+54,Cicilline,David,N.,,,David N. Cicilline,WO,M,rep,RI,1961-07-15
+55,Clarke,Yvette,D.,,,Yvette D. Clarke,AF,F,rep,NY,1964-11-21
+56,Cleaver,Emanuel,,II,,Emanuel Cleaver,AF,M,rep,MO,1944-10-26
+57,Clyburn,James,E.,,Jim,James E. Clyburn,AF,M,rep,SC,1940-07-21
+58,Cohen,Steve,,,,Steve Cohen,WO,M,rep,TN,1949-05-24
+59,Cole,Tom,,,,Tom Cole,IA,M,rep,OK,1949-04-28
+60,Connolly,Gerald,E.,,,Gerald E. Connolly,WO,M,rep,VA,1950-03-30
+61,Cooper,Jim,,,,Jim Cooper,WO,M,rep,TN,1954-06-19
+62,Costa,Jim,,,,Jim Costa,HA,M,rep,CA,1952-04-13
+63,Courtney,Joe,,,,Joe Courtney,WO,M,rep,CT,1953-04-06
+64,Crapo,Michael,D.,,Mike,Mike Crapo,WO,M,sen,ID,1951-05-20
+65,Crawford,Eric,A.,,Rick,"Eric A. ""Rick"" Crawford",WO,M,rep,AR,1966-01-22
+66,Cuellar,Henry,,,,Henry Cuellar,HA,M,rep,TX,1955-09-19
+67,Davis,Danny,K.,,,Danny K. Davis,AF,M,rep,IL,1941-09-06
+68,DeFazio,Peter,A.,,,Peter A. DeFazio,WO,M,rep,OR,1947-05-27
+69,DeGette,Diana,L.,,,Diana DeGette,WO,F,rep,CO,1957-07-29
+70,DeLauro,Rosa,L.,,,Rosa L. DeLauro,WO,F,rep,CT,1943-03-02
+71,DesJarlais,Scott,,,,Scott DesJarlais,WO,M,rep,TN,1964-02-21
+72,Deutch,Theodore,E.,,Ted,Theodore E. Deutch,WO,M,rep,FL,1966-05-07
+73,Diaz-Balart,Mario,,,,Mario Diaz-Balart,HA,M,rep,FL,1961-09-25
+74,Doggett,Lloyd,A.,,,Lloyd Doggett,WO,M,rep,TX,1946-10-06
+75,Doyle,Michael,F.,,,Michael F. Doyle,WO,M,rep,PA,1953-08-05
+76,Duncan,Jeff,,,,Jeff Duncan,WO,M,rep,SC,1966-01-07
+77,Eshoo,Anna,G.,,,Anna G. Eshoo,WO,F,rep,CA,1942-12-13
+78,Fleischmann,Charles,J.,,Chuck,"Charles J. ""Chuck"" Fleischmann",WO,M,rep,TN,1962-10-11
+79,Fortenberry,Jeff,Lane,,,Jeff Fortenberry,WO,M,rep,NE,1960-12-27
+80,Foxx,Virginia,,,,Virginia Foxx,WO,F,rep,NC,1943-06-29
+81,Garamendi,John,,,,John Garamendi,HA,M,rep,CA,1945-01-24
+82,Gibbs,Bob,,,,Bob Gibbs,WO,M,rep,OH,1954-06-14
+83,Gohmert,Louie,B.,Jr.,,Louie Gohmert,WO,M,rep,TX,1953-08-18
+84,Gosar,Paul,A.,,,Paul A. Gosar,WO,M,rep,AZ,1958-11-22
+85,Granger,Kay,,,,Kay Granger,WO,F,rep,TX,1943-01-18
+86,Grassley,Charles,E.,,Chuck,Chuck Grassley,WO,M,sen,IA,1933-09-17
+87,Graves,Sam,B.,,,Sam Graves,WO,M,rep,MO,1963-11-07
+88,Green,Al,,,,Al Green,AF,M,rep,TX,1947-09-01
+89,Griffith,H.,Morgan,,,H. Morgan Griffith,WO,M,rep,VA,1958-03-15
+90,Grijalva,Raúl,M.,,,Raúl M. Grijalva,HA,M,rep,AZ,1948-02-19
+91,Guthrie,Brett,,,,Brett Guthrie,WO,M,rep,KY,1964-02-18
+92,Harris,Andy,,,,Andy Harris,WO,M,rep,MD,1957-01-25
+93,Hartzler,Vicky,,,,Vicky Hartzler,WO,F,rep,MO,1960-10-13
+94,Heinrich,Martin,,,,Martin Heinrich,WO,M,sen,NM,1971-10-17
+95,Herrera Beutler,Jaime,,,,Jaime Herrera Beutler,HA,F,rep,WA,1978-11-03
+96,Higgins,Brian,M.,,,Brian Higgins,WO,M,rep,NY,1959-10-06
+97,Himes,James,A.,,Jim,James A. Himes,WO,M,rep,CT,1966-07-05
+98,Hirono,Mazie,K.,,,Mazie K. Hirono,AS,F,sen,HI,1947-11-03
+99,Hoeven,John,,,,John Hoeven,WO,M,sen,ND,1957-03-13
+100,Hoyer,Steny,H.,,,Steny H. Hoyer,WO,M,rep,MD,1939-06-14
+101,Huizenga,Bill,,,,Bill Huizenga,WO,M,rep,MI,1969-01-31
+102,Jackson Lee,Sheila,,,,Sheila Jackson Lee,AF,F,rep,TX,1950-01-12
+103,Johnson,Bill,,,,Bill Johnson,WO,M,rep,OH,1954-11-10
+104,Johnson,Eddie,Bernice,,,Eddie Bernice Johnson,AF,F,rep,TX,1935-12-03
+105,Johnson,Henry,C.,Jr.,Hank,"Henry C. ""Hank"" Johnson, Jr.",AF,M,rep,GA,1954-10-02
+106,Johnson,Ron,,,,Ron Johnson,WO,M,sen,WI,1955-04-08
+107,Jordan,Jim,,,,Jim Jordan,WO,M,rep,OH,1964-02-17
+108,Kaptur,Marcy,,,,Marcy Kaptur,WO,F,rep,OH,1946-06-17
+109,Keating,William,R.,,,William R. Keating,WO,M,rep,MA,1952-09-06
+110,Kelly,Mike,,,,Mike Kelly,WO,M,rep,PA,1948-05-10
+111,Kind,Ron,James,,,Ron Kind,WO,M,rep,WI,1963-03-16
+112,Kinzinger,Adam,,,,Adam Kinzinger,WO,M,rep,IL,1978-02-27
+113,Lamborn,Doug,,,,Doug Lamborn,WO,M,rep,CO,1954-05-24
+114,Langevin,James,R.,,Jim,James R. Langevin,WO,M,rep,RI,1964-04-22
+115,Lankford,James,,,,James Lankford,WO,M,sen,OK,1968-03-04
+116,Larsen,Rick,,,,Rick Larsen,WO,M,rep,WA,1965-06-15
+117,Larson,John,B.,,,John B. Larson,WO,M,rep,CT,1948-07-22
+118,Latta,Robert,E.,,,Robert E. Latta,WO,M,rep,OH,1956-04-18
+119,Leahy,Patrick,J.,,,Patrick J. Leahy,WO,M,sen,VT,1940-03-31
+120,Lee,Barbara,,,,Barbara Lee,AF,F,rep,CA,1946-07-16
+121,Lee,Mike,,,,Mike Lee,WO,M,sen,UT,1971-06-04
+122,Lofgren,Zoe,,,,Zoe Lofgren,WO,F,rep,CA,1947-12-21
+123,Long,Billy,,,,Billy Long,WO,M,rep,MO,1955-08-11
+124,Lucas,Frank,D.,,,Frank D. Lucas,WO,M,rep,OK,1960-01-06
+125,Luetkemeyer,Blaine,,,,Blaine Luetkemeyer,WO,M,rep,MO,1952-05-07
+126,Luján,Ben,Ray,,,Ben Ray Luján,HA,M,sen,NM,1972-06-07
+127,Lynch,Stephen,F.,,,Stephen F. Lynch,WO,M,rep,MA,1955-03-31
+128,Maloney,Carolyn,B.,,,Carolyn B. Maloney,WO,F,rep,NY,1946-02-19
+129,Markey,Edward,J.,,Ed,Edward J. Markey,WO,M,sen,MA,1946-07-11
+130,Matsui,Doris,O.,,,Doris O. Matsui,AS,F,rep,CA,1944-09-25
+131,McCarthy,Kevin,,,,Kevin McCarthy,WO,M,rep,CA,1965-01-26
+132,McCaul,Michael,T.,,,Michael T. McCaul,WO,M,rep,TX,1962-01-14
+133,McClintock,Tom,,,,Tom McClintock,WO,M,rep,CA,1956-07-10
+134,McCollum,Betty,Louise,,,Betty McCollum,WO,F,rep,MN,1954-07-12
+135,McGovern,James,P.,,Jim,James P. McGovern,WO,M,rep,MA,1959-11-20
+136,McHenry,Patrick,T.,,,Patrick T. McHenry,WO,M,rep,NC,1975-10-22
+137,McKinley,David,B.,,,David B. McKinley,WO,M,rep,WV,1947-03-28
+138,Rodgers,Cathy,McMorris,,,Cathy McMorris Rodgers,WO,F,rep,WA,1969-05-22
+139,McNerney,Jerry,,,,Jerry McNerney,WO,M,rep,CA,1951-06-18
+140,Meeks,Gregory,W.,,,Gregory W. Meeks,AF,M,rep,NY,1953-09-25
+141,Moore,Gwen,,,,Gwen Moore,AF,F,rep,WI,1951-04-18
+142,Moran,Jerry,,,,Jerry Moran,WO,M,sen,KS,1954-05-29
+143,Murkowski,Lisa,A.,,,Lisa Murkowski,WO,F,sen,AK,1957-05-22
+144,Murphy,Christopher,S.,,,Christopher Murphy,WO,M,sen,CT,1973-08-03
+145,Murray,Patty,,,,Patty Murray,WO,F,sen,WA,1950-10-11
+146,Nadler,Jerrold,L.,,,Jerrold Nadler,WO,M,rep,NY,1947-06-13
+147,Napolitano,Grace,F.,,,Grace F. Napolitano,HA,F,rep,CA,1936-12-04
+148,Neal,Richard,E.,,,Richard E. Neal,WO,M,rep,MA,1949-02-14
+149,Norton,Eleanor,Holmes,,,Eleanor Holmes Norton,AF,F,rep,DC,1937-06-13
+150,Palazzo,Steven,M.,,,Steven M. Palazzo,WO,M,rep,MS,1970-02-21
+151,Pallone,Frank,J.,Jr.,,"Frank Pallone, Jr.",WO,M,rep,NJ,1951-10-30
+152,Pascrell,Bill,J.,Jr.,,"Bill Pascrell, Jr.",WO,M,rep,NJ,1937-01-25
+153,Paul,Rand,,,,Rand Paul,WO,M,sen,KY,1963-01-07
+154,Pelosi,Nancy,,,,Nancy Pelosi,WO,F,rep,CA,1940-03-26
+155,Perlmutter,Ed,,,,Ed Perlmutter,WO,M,rep,CO,1953-05-01
+156,Peters,Gary,C.,,,Gary C. Peters,WO,M,sen,MI,1958-12-01
+157,Pingree,Chellie,,,,Chellie Pingree,WO,F,rep,ME,1955-04-02
+158,Portman,Robert,J.,,Rob,Rob Portman,WO,M,sen,OH,1955-12-19
+159,Posey,Bill,,,,Bill Posey,WO,M,rep,FL,1947-12-18
+160,Price,David,E.,,,David E. Price,WO,M,rep,NC,1940-08-17
+161,Quigley,Mike,,,,Mike Quigley,WO,M,rep,IL,1958-10-17
+162,Reed,Tom,W.,,,Tom Reed,WO,M,rep,NY,1971-11-18
+163,Rogers,Harold,,,Hal,Harold Rogers,WO,M,rep,KY,1937-12-31
+164,Rogers,Mike,,,,Mike Rogers,WO,M,rep,AL,1958-07-16
+165,Roybal-Allard,Lucille,,,,Lucille Roybal-Allard,HA,F,rep,CA,1941-06-12
+166,Rubio,Marco,,,,Marco Rubio,HA,M,sen,FL,1971-05-28
+167,Ruppersberger,C.,A. Dutch,,,C. A. Dutch Ruppersberger,WO,M,rep,MD,1946-01-31
+168,Rush,Bobby,L.,,,Bobby L. Rush,AF,M,rep,IL,1946-11-23
+169,Ryan,Tim,J.,,,Tim Ryan,WO,M,rep,OH,1973-07-16
+170,Sablan,Gregorio,Kilili Camacho,,,Gregorio Kilili Camacho Sablan,"HA, AS",M,rep,MP,1955-01-19
+171,Sarbanes,John,P.,,,John P. Sarbanes,WO,M,rep,MD,1962-05-22
+172,Scalise,Steve,Joseph,,,Steve Scalise,WO,M,rep,LA,1965-10-06
+173,Schakowsky,Janice,D.,,Jan,Janice D. Schakowsky,WO,F,rep,IL,1944-05-26
+174,Schiff,Adam,B.,,,Adam B. Schiff,WO,M,rep,CA,1960-06-22
+175,Schrader,Kurt,,,,Kurt Schrader,WO,M,rep,OR,1951-10-19
+176,Schumer,Charles,E.,,Chuck,Charles E. Schumer,WO,M,sen,NY,1950-11-23
+177,Schweikert,David,,,,David Schweikert,WO,M,rep,AZ,1962-03-03
+178,Scott,Austin,,,,Austin Scott,WO,M,rep,GA,1969-12-10
+179,Scott,David,,,,David Scott,AF,M,rep,GA,1945-06-27
+180,Scott,Robert,C.,,Bobby,"Robert C. ""Bobby"" Scott","AS, AF",M,rep,VA,1947-04-30
+181,Scott,Tim,,,,Tim Scott,AF,M,sen,SC,1965-09-19
+182,Sewell,Terri,A.,,,Terri Sewell,AF,F,rep,AL,1965-01-01
+183,Shelby,Richard,C.,,,Richard C. Shelby,WO,M,sen,AL,1934-05-06
+184,Sherman,Brad,J.,,,Brad Sherman,WO,M,rep,CA,1954-10-24
+185,Simpson,Michael,K.,,Mike,Michael K. Simpson,WO,M,rep,ID,1950-09-08
+186,Sires,Albio,,,,Albio Sires,HA,M,rep,NJ,1951-01-26
+187,Smith,Adam,,,,Adam Smith,WO,M,rep,WA,1965-06-15
+188,Smith,Adrian,,,,Adrian Smith,WO,M,rep,NE,1970-12-19
+189,Smith,Christopher,H.,,Chris,Christopher H. Smith,WO,M,rep,NJ,1953-03-04
+190,Speier,Jackie,,,,Jackie Speier,WO,F,rep,CA,1950-05-14
+191,Sánchez,Linda,T.,,,Linda T. Sánchez,HA,F,rep,CA,1969-01-28
+192,Thompson,Bennie,G.,,,Bennie G. Thompson,AF,M,rep,MS,1948-01-28
+193,Thompson,Mike,Michael,,,Mike Thompson,WO,M,rep,CA,1951-01-24
+194,Thompson,Glenn,,,,Glenn Thompson,WO,M,rep,PA,1959-07-27
+195,Thune,John,,,,John Thune,WO,M,sen,SD,1961-01-07
+196,Tonko,Paul,,,,Paul Tonko,WO,M,rep,NY,1949-06-18
+197,Toomey,Patrick,J.,,Pat,Patrick J. Toomey,WO,M,sen,PA,1961-11-17
+198,Turner,Michael,R.,,,Michael R. Turner,WO,M,rep,OH,1960-01-11
+199,Upton,Fred,Stephen,,,Fred Upton,WO,M,rep,MI,1953-04-23
+200,Van Hollen,Chris,,,,Chris Van Hollen,WO,M,sen,MD,1959-01-10
+201,Velázquez,Nydia,M.,,,Nydia M. Velázquez,HA,F,rep,NY,1953-03-28
+202,Walberg,Tim,,,,Tim Walberg,WO,M,rep,MI,1951-04-12
+203,Wasserman Schultz,Debbie,,,,Debbie Wasserman Schultz,WO,F,rep,FL,1966-09-27
+204,Waters,Maxine,,,,Maxine Waters,AF,F,rep,CA,1938-08-15
+205,Webster,Daniel,,,,Daniel Webster,WO,M,rep,FL,1949-04-27
+206,Welch,Peter,,,,Peter Welch,WO,M,rep,VT,1947-05-02
+207,Wilson,Joe,G.,,,Joe Wilson,WO,M,rep,SC,1947-07-31
+208,Wilson,Frederica,S.,,,Frederica S. Wilson,AF,F,rep,FL,1942-11-05
+209,Wittman,Robert,J.,,,Robert J. Wittman,WO,M,rep,VA,1959-02-03
+210,Womack,Steve,,,,Steve Womack,WO,M,rep,AR,1957-02-18
+211,Wyden,Ron,,,,Ron Wyden,WO,M,sen,OR,1949-05-03
+212,Yarmuth,John,A.,,,John A. Yarmuth,WO,M,rep,KY,1947-11-04
+213,Young,Don,E.,,,Don Young,WO,M,rep,AK,1933-06-09
+214,Young,Todd,C.,,,Todd Young,WO,M,sen,IN,1972-08-24
+215,Amodei,Mark,E.,,,Mark E. Amodei,WO,M,rep,NV,1958-06-12
+216,Bonamici,Suzanne,,,,Suzanne Bonamici,WO,F,rep,OR,1954-10-14
+217,DelBene,Suzan,K.,,,Suzan K. DelBene,WO,F,rep,WA,1962-02-17
+218,Massie,Thomas,,,,Thomas Massie,WO,M,rep,KY,1971-01-13
+219,Payne,Donald,M.,Jr.,,"Donald M. Payne, Jr.",AF,M,rep,NJ,1958-12-17
+220,Schatz,Brian,Emanuel,,,Brian Schatz,WO,M,sen,HI,1972-10-20
+221,Foster,Bill,,,,Bill Foster,WO,M,rep,IL,1955-10-07
+222,Titus,Dina,,,,Dina Titus,WO,F,rep,NV,1950-05-23
+223,Cotton,Tom,,,,Tom Cotton,WO,M,sen,AR,1977-05-13
+224,Sinema,Kyrsten,,,,Kyrsten Sinema,WO,F,sen,AZ,1976-07-12
+225,LaMalfa,Doug,,,,Doug LaMalfa,WO,M,rep,CA,1960-07-02
+226,Huffman,Jared,,,,Jared Huffman,WO,M,rep,CA,1964-02-18
+227,Bera,Ami,,,,Ami Bera,AS,M,rep,CA,1965-03-02
+228,Swalwell,Eric,,,,Eric Swalwell,WO,M,rep,CA,1980-11-16
+229,Brownley,Julia,,,,Julia Brownley,WO,F,rep,CA,1952-08-28
+230,Cárdenas,Tony,,,,Tony Cárdenas,HA,M,rep,CA,1963-03-31
+231,Ruiz,Raul,,,,Raul Ruiz,HA,M,rep,CA,1972-08-25
+232,Takano,Mark,,,,Mark Takano,AS,M,rep,CA,1960-12-10
+233,Lowenthal,Alan,S.,,,Alan S. Lowenthal,WO,M,rep,CA,1941-03-08
+234,Vargas,Juan,,,,Juan Vargas,HA,M,rep,CA,1961-03-07
+235,Peters,Scott,H.,,,Scott H. Peters,WO,M,rep,CA,1958-06-17
+236,Frankel,Lois,,,,Lois Frankel,WO,F,rep,FL,1948-05-16
+237,Duckworth,Tammy,,,,Tammy Duckworth,AS,F,sen,IL,1968-03-12
+238,Davis,Rodney,,,,Rodney Davis,WO,M,rep,IL,1970-01-05
+239,Bustos,Cheri,,,,Cheri Bustos,WO,F,rep,IL,1961-10-17
+240,Walorski,Jackie,,,,Jackie Walorski,WO,F,rep,IN,1963-08-17
+241,Barr,Garland,,,Andy,Andy Barr,WO,M,rep,KY,1973-07-24
+242,Warren,Elizabeth,,,,Elizabeth Warren,WO,F,sen,MA,1949-06-22
+243,King,Angus,S.,Jr.,,"Angus S. King, Jr.",WO,M,sen,ME,1944-03-31
+244,Kildee,Daniel,T.,,,Daniel T. Kildee,WO,M,rep,MI,1958-08-11
+245,Wagner,Ann,,,,Ann Wagner,WO,F,rep,MO,1962-09-13
+246,Daines,Steve,,,,Steve Daines,WO,M,sen,MT,1962-08-20
+247,Hudson,Richard,,,,Richard Hudson,WO,M,rep,NC,1971-11-04
+248,Cramer,Kevin,,,,Kevin Cramer,WO,M,sen,ND,1961-01-21
+249,Fischer,Deb,,,,Deb Fischer,WO,F,sen,NE,1951-03-01
+250,Kuster,Ann,M.,,,Ann Kuster,WO,F,rep,NH,1956-09-05
+251,Meng,Grace,,,,Grace Meng,AS,F,rep,NY,1975-10-01
+252,Jeffries,Hakeem,S.,,,Hakeem S. Jeffries,AF,M,rep,NY,1970-08-04
+253,Maloney,Sean,Patrick,,,Sean Patrick Maloney,WO,M,rep,NY,1966-07-30
+254,Wenstrup,Brad,R.,,,Brad R. Wenstrup,WO,M,rep,OH,1958-06-17
+255,Beatty,Joyce,,,,Joyce Beatty,AF,F,rep,OH,1950-03-12
+256,Joyce,David,P.,,,David P. Joyce,WO,M,rep,OH,1957-03-17
+257,Mullin,Markwayne,,,,Markwayne Mullin,IA,M,rep,OK,1977-07-26
+258,Perry,Scott,,,,Scott Perry,WO,M,rep,PA,1962-05-27
+259,Cartwright,Matthew,A.,,Matt,Matt Cartwright,WO,M,rep,PA,1961-05-01
+260,Rice,Tom,,,,Tom Rice,WO,M,rep,SC,1957-08-04
+261,Cruz,Ted,,,,Ted Cruz,HA,M,sen,TX,1970-12-22
+262,Weber,Randy,K.,Sr.,,"Randy K. Weber, Sr.",WO,M,rep,TX,1953-07-02
+263,Castro,Joaquin,,,,Joaquin Castro,HA,M,rep,TX,1974-09-16
+264,Williams,Roger,,,,Roger Williams,WO,M,rep,TX,1949-09-13
+265,Veasey,Marc,A.,,,Marc A. Veasey,AF,M,rep,TX,1971-01-03
+266,Vela,Filemon,,,,Filemon Vela,HA,M,rep,TX,1963-02-13
+267,Stewart,Chris,,,,Chris Stewart,WO,M,rep,UT,1960-07-15
+268,Kaine,Timothy,,,Tim,Tim Kaine,WO,M,sen,VA,1958-02-26
+269,Kilmer,Derek,,,,Derek Kilmer,WO,M,rep,WA,1974-01-01
+270,Pocan,Mark,,,,Mark Pocan,WO,M,rep,WI,1964-08-14
+271,Kelly,Robin,L.,,,Robin L. Kelly,AF,F,rep,IL,1956-04-30
+272,Smith,Jason,T.,,,Jason Smith,WO,M,rep,MO,1980-06-16
+273,Booker,Cory,Anthony,,,Cory A. Booker,AF,M,sen,NJ,1969-04-27
+274,Clark,Katherine,M.,,,Katherine M. Clark,WO,F,rep,MA,1963-07-17
+275,Norcross,Donald,W.,,,Donald Norcross,WO,M,rep,NJ,1958-12-13
+276,Adams,Alma,S.,,,Alma S. Adams,AF,F,rep,NC,1946-05-27
+277,Palmer,Gary,J.,,,Gary J. Palmer,WO,M,rep,AL,1954-05-14
+278,Hill,J.,French,,,J. Hill,WO,M,rep,AR,1956-12-05
+279,Westerman,Bruce,,,,Bruce Westerman,WO,M,rep,AR,1967-11-18
+280,Gallego,Ruben,,,,Ruben Gallego,HA,M,rep,AZ,1979-11-20
+281,DeSaulnier,Mark,,,,Mark DeSaulnier,WO,M,rep,CA,1952-03-31
+282,Aguilar,Pete,,,,Pete Aguilar,HA,M,rep,CA,1979-06-19
+283,Lieu,Ted,,,,Ted Lieu,AS,M,rep,CA,1969-03-29
+284,Torres,Norma,J.,,,Norma J. Torres,HA,F,rep,CA,1965-04-04
+285,Buck,Ken,,,,Ken Buck,WO,M,rep,CO,1959-02-16
+286,Carter,Earl,L.,,Buddy,"Earl L. ""Buddy"" Carter",WO,M,rep,GA,1957-09-06
+287,Hice,Jody,B.,,,Jody B. Hice,WO,M,rep,GA,1960-04-22
+288,Loudermilk,Barry,,,,Barry Loudermilk,WO,M,rep,GA,1963-12-22
+289,Allen,Rick,W.,,,Rick W. Allen,WO,M,rep,GA,1951-11-07
+290,Bost,Mike,,,,Mike Bost,WO,M,rep,IL,1960-12-30
+291,Graves,Garret,,,,Garret Graves,WO,M,rep,LA,1972-01-31
+292,Moulton,Seth,,,,Seth Moulton,WO,M,rep,MA,1978-10-24
+293,Moolenaar,John,R.,,,John R. Moolenaar,WO,M,rep,MI,1961-05-08
+294,Dingell,Debbie,,,,Debbie Dingell,WO,F,rep,MI,1953-11-23
+295,Lawrence,Brenda,L.,,,Brenda L. Lawrence,AF,F,rep,MI,1954-10-18
+296,Emmer,Tom,,,,Tom Emmer,WO,M,rep,MN,1961-03-03
+297,Rouzer,David,,,,David Rouzer,WO,M,rep,NC,1972-02-16
+298,Watson Coleman,Bonnie,,,,Bonnie Watson Coleman,AF,F,rep,NJ,1945-02-06
+299,Zeldin,Lee,M.,,,Lee M. Zeldin,WO,M,rep,NY,1980-01-30
+300,Rice,Kathleen,M.,,,Kathleen M. Rice,WO,F,rep,NY,1965-02-15
+301,Stefanik,Elise,M.,,,Elise M. Stefanik,WO,F,rep,NY,1984-07-02
+302,Katko,John,,,,John Katko,WO,M,rep,NY,1962-11-09
+303,Boyle,Brendan,F.,,,Brendan F. Boyle,WO,M,rep,PA,1977-02-06
+304,Babin,Brian,,,,Brian Babin,WO,M,rep,TX,1948-03-23
+305,Beyer,Donald,S.,Jr.,,"Donald S. Beyer, Jr.",WO,M,rep,VA,1950-06-20
+306,Plaskett,Stacey,E.,,,Stacey E. Plaskett,AF,F,rep,VI,1966-05-13
+307,Newhouse,Dan,,,,Dan Newhouse,WO,M,rep,WA,1955-07-10
+308,Grothman,Glenn,,,,Glenn Grothman,WO,M,rep,WI,1955-07-03
+309,Mooney,Alexander,X.,,,Alexander Mooney,HA,M,rep,WV,1971-06-05
+310,Radewagen,Aumua Amata,Coleman,,,Aumua Amata Coleman Radewagen,AS,F,rep,AS,1947-12-29
+311,Sullivan,Dan,,,,Dan Sullivan,WO,M,sen,AK,1964-11-13
+312,Ernst,Joni,,,,Joni Ernst,WO,F,sen,IA,1970-07-01
+313,Tillis,Thom,,,,Thom Tillis,WO,M,sen,NC,1960-08-30
+314,Rounds,Mike,,,,Mike Rounds,WO,M,sen,SD,1954-10-24
+315,Sasse,Benjamin,Eric,,Ben,Ben Sasse,WO,M,sen,NE,1972-02-22
+316,Kelly,Trent,,,,Trent Kelly,WO,M,rep,MS,1966-03-01
+317,LaHood,Darin,,,,Darin LaHood,WO,M,rep,IL,1968-07-05
+318,Davidson,Warren,,,,Warren Davidson,WO,M,rep,OH,1970-03-01
+319,Comer,James,,,,James Comer,WO,M,rep,KY,1972-08-19
+320,Evans,Dwight,,,,Dwight Evans,AF,M,rep,PA,1954-05-16
+321,Kennedy,John,Neely,,,John Kennedy,WO,M,sen,LA,1951-11-21
+322,Hassan,Margaret,Wood,,Maggie,Margaret Wood Hassan,WO,F,sen,NH,1958-02-27
+323,Cortez Masto,Catherine,,,,Catherine Cortez Masto,HA,F,sen,NV,1964-03-29
+324,Schneider,Bradley,Scott,,Brad,Bradley Scott Schneider,WO,M,rep,IL,1961-08-20
+325,O’Halleran,Tom,,,,Tom O’Halleran,WO,M,rep,AZ,1946-01-24
+326,Biggs,Andy,,,,Andy Biggs,WO,M,rep,AZ,1958-11-07
+327,Khanna,Ro,,,,Ro Khanna,AS,M,rep,CA,1976-09-13
+328,Panetta,Jimmy,,,,Jimmy Panetta,WO,M,rep,CA,1969-10-01
+329,Carbajal,Salud,O.,,,Salud O. Carbajal,HA,M,rep,CA,1964-11-18
+330,Barragán,Nanette,Diaz,,,Nanette Diaz Barragán,HA,F,rep,CA,1976-09-15
+331,Correa,J.,Luis,,,J. Luis Correa,HA,M,rep,CA,1958-01-24
+332,Blunt Rochester,Lisa,,,,Lisa Blunt Rochester,AF,F,rep,DE,1962-02-10
+333,Gaetz,Matt,,,,Matt Gaetz,WO,M,rep,FL,1982-05-07
+334,Dunn,Neal,P.,,,Neal P. Dunn,WO,M,rep,FL,1953-02-16
+335,Rutherford,John,H.,,,John H. Rutherford,WO,M,rep,FL,1952-09-02
+336,Lawson,Al,,Jr.,,"Al Lawson, Jr.",AF,M,rep,FL,1948-09-23
+337,Murphy,Stephanie,N.,,,Stephanie N. Murphy,AS,F,rep,FL,1978-09-16
+338,Soto,Darren,,,,Darren Soto,HA,M,rep,FL,1978-02-25
+339,Demings,Val,Butler,,,Val Butler Demings,AF,F,rep,FL,1957-03-12
+340,Crist,Charlie,,,,Charlie Crist,WO,M,rep,FL,1956-07-24
+341,Mast,Brian,J.,,,Brian J. Mast,HA,M,rep,FL,1980-07-10
+342,Ferguson,A.,Drew,IV,,A. Drew Ferguson IV,WO,M,rep,GA,1966-11-15
+343,Krishnamoorthi,Raja,,,,Raja Krishnamoorthi,AS,M,rep,IL,1973-07-19
+344,Banks,Jim,,,,Jim Banks,WO,M,rep,IN,1979-07-16
+345,Hollingsworth,Trey,,,,Trey Hollingsworth,WO,M,rep,IN,1983-09-12
+346,Marshall,Roger,,,,Roger Marshall,WO,M,sen,KS,1960-08-09
+347,Higgins,Clay,,,,Clay Higgins,WO,M,rep,LA,1961-08-24
+348,Johnson,Mike,,,,Mike Johnson,WO,M,rep,LA,1972-01-30
+349,Brown,Anthony,G.,,,Anthony Brown,AF,M,rep,MD,1961-11-21
+350,Raskin,Jamie,,,,Jamie Raskin,WO,M,rep,MD,1962-12-13
+351,Bergman,Jack,,,,Jack Bergman,WO,M,rep,MI,1947-02-02
+352,Budd,Ted,,,,Ted Budd,WO,M,rep,NC,1971-10-21
+353,Bacon,Don,,,,Don Bacon,WO,M,rep,NE,1963-08-16
+354,Gottheimer,Josh,,,,Josh Gottheimer,WO,M,rep,NJ,1975-03-08
+355,Rosen,Jacky,,,,Jacky Rosen,WO,F,sen,NV,1957-08-02
+356,Suozzi,Thomas,R.,,,Thomas R. Suozzi,WO,M,rep,NY,1962-08-31
+357,Espaillat,Adriano,,,,Adriano Espaillat,HA,M,rep,NY,1954-09-27
+358,Fitzpatrick,Brian,K.,,,Brian K. Fitzpatrick,WO,M,rep,PA,1973-12-17
+359,Smucker,Lloyd,,,,Lloyd Smucker,WO,M,rep,PA,1964-01-23
+360,González-Colón,Jenniffer,,,,Jenniffer González-Colón,HA,F,rep,PR,1976-08-05
+361,Kustoff,David,,,,David Kustoff,WO,M,rep,TN,1966-10-08
+362,Gonzalez,Vicente,,,,Vicente Gonzalez,HA,M,rep,TX,1967-09-04
+363,Arrington,Jodey,C.,,,Jodey C. Arrington,WO,M,rep,TX,1972-03-09
+364,McEachin,A.,Donald,,,A. Donald McEachin,AF,M,rep,VA,1961-10-10
+365,Jayapal,Pramila,,,,Pramila Jayapal,AS,F,rep,WA,1965-09-21
+366,Gallagher,Mike,,,,Mike Gallagher,WO,M,rep,WI,1984-03-03
+367,Cheney,Liz,,,,Liz Cheney,WO,F,rep,WY,1966-07-28
+368,Estes,Ron,,,,Ron Estes,WO,M,rep,KS,1956-07-19
+369,Norman,Ralph,,,,Ralph Norman,WO,M,rep,SC,1953-06-20
+370,Gomez,Jimmy,,,,Jimmy Gomez,HA,M,rep,CA,1974-11-25
+371,Curtis,John,R.,,,John R. Curtis,WO,M,rep,UT,1960-05-10
+372,Smith,Tina,Flint,,,Tina Smith,WO,F,sen,MN,1958-03-04
+373,Hyde-Smith,Cindy,,,,Cindy Hyde-Smith,WO,F,sen,MS,1959-05-10
+374,Lamb,Conor,,,,Conor Lamb,WO,M,rep,PA,1984-06-27
+375,Lesko,Debbie,,,,Debbie Lesko,WO,F,rep,AZ,1958-11-14
+376,Cloud,Michael,,,,Michael Cloud,WO,M,rep,TX,1975-05-13
+377,Balderson,Troy,,,,Troy Balderson,WO,M,rep,OH,1962-01-16
+378,Hern,Kevin,R.,,,Kevin Hern,WO,M,rep,OK,1961-12-04
+379,Morelle,Joseph,D.,,,Joseph D. Morelle,WO,M,rep,NY,1957-04-29
+380,Scanlon,Mary,Gay,,,Mary Gay Scanlon,WO,F,rep,PA,1959-08-30
+381,Wild,Susan,Ellis,,,Susan Wild,WO,F,rep,PA,1957-06-07
+382,Case,Ed,,,,Ed Case,WO,M,rep,HI,1952-09-27
+383,Horsford,Steven,A.,,,Steven Horsford,AF,M,rep,NV,1973-04-29
+384,Kirkpatrick,Ann,,,,Ann Kirkpatrick,WO,F,rep,AZ,1950-03-24
+385,Stanton,Greg,,,,Greg Stanton,WO,M,rep,AZ,1970-03-08
+386,Harder,Josh,,,,Josh Harder,WO,M,rep,CA,1986-08-01
+387,Porter,Katie,,,,Katie Porter,WO,F,rep,CA,1974-01-03
+388,Levin,Mike,,,,Mike Levin,HA,M,rep,CA,1978-10-28
+389,Neguse,Joe,,,,Joe Neguse,AF,M,rep,CO,1984-05-13
+390,Crow,Jason,,,,Jason Crow,WO,M,rep,CO,1979-03-15
+391,Hayes,Jahana,,,,Jahana Hayes,AF,F,rep,CT,1973-03-08
+392,Waltz,Michael,,,,Michael Waltz,WO,M,rep,FL,1974-01-31
+393,Steube,W.,Gregory,,,W. Gregory Steube,WO,M,rep,FL,1978-05-19
+394,McBath,Lucy,,,,Lucy McBath,AF,F,rep,GA,1960-06-01
+395,San Nicolas,Michael,F. Q.,,,Michael F. Q. San Nicolas,HA,M,rep,GU,1981-01-30
+396,Axne,Cynthia,,,,Cynthia Axne,WO,F,rep,IA,1965-04-20
+397,Fulcher,Russ,,,,Russ Fulcher,WO,M,rep,ID,1973-07-19
+398,García,Jesús,G.,,Chuy,"Jesús G. ""Chuy"" García",HA,M,rep,IL,1956-04-12
+399,Casten,Sean,,,,Sean Casten,WO,M,rep,IL,1971-11-23
+400,Underwood,Lauren,,,,Lauren Underwood,AF,F,rep,IL,1986-10-04
+401,Baird,James,R.,,,James R. Baird,WO,M,rep,IN,1945-06-04
+402,Pence,Greg,,,,Greg Pence,WO,M,rep,IN,1956-11-14
+403,Davids,Sharice,,,,Sharice Davids,IA,F,rep,KS,1980-05-22
+404,Trahan,Lori,,,,Lori Trahan,HA,F,rep,MA,1973-10-27
+405,Pressley,Ayanna,,,,Ayanna Pressley,AF,F,rep,MA,1974-02-03
+406,Trone,David,J.,,,David J. Trone,WO,M,rep,MD,1955-09-21
+407,Slotkin,Elissa,,,,Elissa Slotkin,WO,F,rep,MI,1976-07-10
+408,Levin,Andy,,,,Andy Levin,WO,M,rep,MI,1960-08-01
+409,Stevens,Haley,M.,,,Haley M. Stevens,WO,F,rep,MI,1983-06-24
+410,Tlaib,Rashida,,,,Rashida Tlaib,WO,F,rep,MI,1976-07-24
+411,Hagedorn,Jim,,,,Jim Hagedorn,WO,M,rep,MN,1962-08-04
+412,Craig,Angie,,,,Angie Craig,WO,F,rep,MN,1972-02-14
+413,Phillips,Dean,,,,Dean Phillips,WO,M,rep,MN,1969-01-20
+414,Omar,Ilhan,,,,Ilhan Omar,AF,F,rep,MN,1981-10-04
+415,Stauber,Pete,,,,Pete Stauber,WO,M,rep,MN,1966-05-10
+416,Guest,Michael,,,,Michael Guest,WO,M,rep,MS,1970-02-04
+417,Armstrong,Kelly,,,,Kelly Armstrong,WO,M,rep,ND,1976-10-08
+418,Pappas,Chris,,,,Chris Pappas,WO,M,rep,NH,1980-06-04
+419,Van Drew,Jefferson,,,,Jefferson Van Drew,WO,M,rep,NJ,1953-02-23
+420,Kim,Andy,,,,Andy Kim,AS,M,rep,NJ,1982-07-12
+421,Malinowski,Tom,,,,Tom Malinowski,WO,M,rep,NJ,1965-09-23
+422,Sherrill,Mikie,,,,Mikie Sherrill,WO,F,rep,NJ,1972-01-19
+423,Lee,Susie,,,,Susie Lee,WO,F,rep,NV,1966-11-07
+424,Ocasio-Cortez,Alexandria,,,,Alexandria Ocasio-Cortez,HA,F,rep,NY,1989-10-13
+425,Delgado,Antonio,,,,Antonio Delgado,"HA, AF",M,rep,NY,1977-01-19
+426,Gonzalez,Anthony,,,,Anthony Gonzalez,HA,M,rep,OH,1984-09-19
+427,Dean,Madeleine,,,,Madeleine Dean,WO,F,rep,PA,1959-06-06
+428,Houlahan,Chrissy,,,,Chrissy Houlahan,WO,F,rep,PA,1967-06-05
+429,Meuser,Daniel,,,,Daniel Meuser,WO,M,rep,PA,1964-02-10
+430,Joyce,John,,,,John Joyce,WO,M,rep,PA,1957-02-08
+431,Reschenthaler,Guy,,,,Guy Reschenthaler,WO,M,rep,PA,1983-04-17
+432,Timmons,William,R.,,,William R. Timmons IV,WO,M,rep,SC,1984-04-30
+433,Johnson,Dusty,,,,Dusty Johnson,WO,M,rep,SD,1976-09-30
+434,Burchett,Tim,,,,Tim Burchett,WO,M,rep,TN,1964-08-25
+435,Rose,John,W.,,,John Rose,WO,M,rep,TN,1965-02-23
+436,Green,Mark,E.,,,Mark E. Green,WO,M,rep,TN,1964-11-08
+437,Crenshaw,Dan,,,,Dan Crenshaw,WO,M,rep,TX,1984-03-14
+438,Taylor,Van,,,,Van Taylor,WO,M,rep,TX,1972-08-01
+439,Gooden,Lance,,,,Lance Gooden,WO,M,rep,TX,1982-12-01
+440,Fletcher,Lizzie,,,,Lizzie Fletcher,WO,F,rep,TX,1975-02-13
+441,Escobar,Veronica,,,,Veronica Escobar,HA,F,rep,TX,1969-09-15
+442,Roy,Chip,,,,Chip Roy,WO,M,rep,TX,1972-08-07
+443,Garcia,Sylvia,R.,,,Sylvia R. Garcia,HA,F,rep,TX,1950-09-06
+444,Allred,Colin,Z.,,,Colin Z. Allred,AF,M,rep,TX,1983-04-15
+445,Luria,Elaine,G.,,,Elaine G. Luria,WO,F,rep,VA,1975-08-15
+446,Cline,Ben,,,,Ben Cline,WO,M,rep,VA,1972-02-29
+447,Spanberger,Abigail,Davis,,,Abigail Davis Spanberger,WO,F,rep,VA,1979-08-07
+448,Wexton,Jennifer,,,,Jennifer Wexton,WO,F,rep,VA,1968-05-27
+449,Schrier,Kim,,,,Kim Schrier,WO,F,rep,WA,1968-08-23
+450,Steil,Bryan,,,,Bryan Steil,WO,M,rep,WI,1981-03-30
+451,Miller,Carol,D.,,,Carol D. Miller,WO,F,rep,WV,1950-11-04
+452,Scott,Rick,,,,Rick Scott,WO,M,sen,FL,1952-12-01
+453,Braun,Mike,,,,Mike Braun,WO,M,sen,IN,1954-03-24
+454,Hawley,Joshua,,,Josh,Josh Hawley,WO,M,sen,MO,1979-12-31
+455,Romney,Mitt,,,,Mitt Romney,WO,M,sen,UT,1947-03-12
+456,Golden,Jared,Forrest,,,Jared F. Golden,WO,M,rep,ME,1982-07-25
+457,Keller,Fred,,,,Fred Keller,WO,M,rep,PA,1965-10-23
+458,Bishop,Dan,,,,Dan Bishop,WO,M,rep,NC,1964-07-01
+459,Murphy,Gregory,Francis,,,Gregory F. Murphy,WO,M,rep,NC,1963-03-05
+460,Mfume,Kweisi,,,,Kweisi Mfume,AF,M,rep,MD,1948-10-24
+461,Tiffany,Thomas,P.,,,Thomas P. Tiffany,WO,M,rep,WI,1957-12-30
+462,Garcia,Mike,,,,Mike Garcia,WO,M,rep,CA,1976-04-24
+463,Jacobs,Chris,,,,Chris Jacobs,WO,M,rep,NY,1966-11-28
+464,Kelly,Mark,,,,Mark Kelly,WO,M,sen,AZ,1964-02-21
+465,Lummis,Cynthia,M.,,,Cynthia M. Lummis,WO,F,sen,WY,1954-09-10
+466,Issa,Darrell,E.,,,Darrell Issa,WO,M,rep,CA,1953-11-01
+467,Sessions,Pete,A.,,,Pete Sessions,WO,M,rep,TX,1955-03-22
+468,Valadao,David,G.,,,David G. Valadao,HA,M,rep,CA,1977-04-14
+469,Tuberville,Tommy,Hawley,,,Tommy Tuberville,WO,M,sen,AL,1954-09-18
+470,Hickenlooper,John,Wright,,,John W. Hickenlooper,WO,M,sen,CO,1952-02-07
+471,Hagerty,Bill,Francis,,,Bill Hagerty,WO,M,sen,TN,1959-08-14
+472,Carl,Jerry,Lee,Jr.,,Jerry L. Carl,WO,M,rep,AL,1958-06-17
+473,Moore,Barry,,,,Barry Moore,WO,M,rep,AL,1966-09-26
+474,Obernolte,Jay,Phillip,,,Jay Obernolte,WO,M,rep,CA,1970-08-18
+475,Kim,Young,Oak,,,Young Kim,AS,F,rep,CA,1962-10-18
+476,Steel,Michelle,Eunjoo,,,Michelle Steel,AS,F,rep,CA,1955-06-21
+477,Jacobs,Sara,,,,Sara Jacobs,WO,F,rep,CA,1989-02-01
+478,Boebert,Lauren,Opal,,,Lauren Boebert,WO,F,rep,CO,1986-12-15
+479,Cammack,Katherine,,,Kat,Kat Cammack,WO,F,rep,FL,1988-02-16
+480,Franklin,C.,Scott,,,C. Scott Franklin,WO,M,rep,FL,1964-08-23
+481,Donalds,Byron,Lowell,,,Byron Donalds,AF,M,rep,FL,1978-10-28
+482,Gimenez,Carlos,A.,,,Carlos A. Gimenez,HA,M,rep,FL,1954-01-17
+483,Salazar,Maria,Elvira,,,Maria Elvira Salazar,HA,M,rep,FL,1961-11-01
+484,Williams,Nikema,Natassha,,,Nikema Williams,AF,F,rep,GA,1978-07-30
+485,Bourdeaux,Carolyn,,,,Carolyn Bourdeaux,WO,F,rep,GA,1970-06-03
+486,Clyde,Andrew,S.,,,Andrew S. Clyde,WO,M,rep,GA,1963-11-22
+487,Greene,Marjorie,Taylor,,,Marjorie Taylor Greene,WO,F,rep,GA,1974-05-27
+488,Kahele,Kaialiʻi,,,,Kaiali’i Kahele,"AS, IA",M,rep,HI,1974-03-28
+489,Hinson,Ashley,,,,Ashley Hinson,WO,F,rep,IA,1983-06-27
+490,Miller-Meeks,Mariannette,Jane,,,Mariannette Miller-Meeks,WO,F,rep,IA,1955-09-06
+491,Feenstra,Randy,L.,,,Randy Feenstra,WO,M,rep,IA,1969-01-14
+492,Newman,Marie,,,,Marie Newman,WO,F,rep,IL,1964-04-13
+493,Miller,Mary,E.,,,Mary E. Miller,WO,F,rep,IL,1959-08-27
+494,Mrvan,Frank,John,,,Frank J. Mrvan,WO,M,rep,IN,1969-04-16
+495,Spartz,Victoria,,,,Victoria Spartz,WO,F,rep,IN,1978-10-06
+496,Mann,Tracey,Robert,,,Tracey Mann,WO,M,rep,KS,1976-12-17
+497,LaTurner,Jacob,,,Jake,Jake LaTurner,WO,M,rep,KS,1988-02-17
+498,Auchincloss,Jake,Daniel,,,Jake Auchincloss,WO,M,rep,MA,1988-01-29
+499,Meijer,Peter,James,,,Peter Meijer,WO,M,rep,MI,1988-01-10
+500,McClain,Lisa,C.,,,Lisa C. McClain,WO,F,rep,MI,1966-04-07
+501,Fischbach,Michelle,Louise Helene,,,Michelle Fischbach,WO,F,rep,MN,1965-11-03
+502,Bush,Cori,,,,Cori Bush,AF,F,rep,MO,1976-07-21
+503,Rosendale,Matthew,Martin,Sr.,,"Matthew M. Rosendale, Sr.",WO,M,rep,MT,1960-07-07
+504,Ross,Deborah,Koff,,,Deborah K. Ross,WO,F,rep,NC,1963-06-20
+505,Manning,Kathy,Ellen,,,Kathy E. Manning,WO,F,rep,NC,1956-12-03
+506,Cawthorn,David,,,Madison,Madison Cawthorn,WO,M,rep,NC,1995-08-01
+507,Herrell,Yvette,,,,Yvette Herrell,IA,F,rep,NM,1964-03-16
+508,Leger Fernandez,Teresa,,,,Teresa Leger Fernandez,WO,F,rep,NM,1959-07-01
+509,Garbarino,Andrew,R.,,,Andrew R. Garbarino,WO,M,rep,NY,1984-09-27
+510,Malliotakis,Nicole,,,,Nicole Malliotakis,HA,F,rep,NY,1980-11-11
+511,Torres,Ritchie,John,,,Ritchie Torres,"HA, AF",M,rep,NY,1988-03-12
+512,Bowman,Jamaal,,,,Jamaal Bowman,AF,M,rep,NY,1976-04-01
+513,Jones,Mondaire,,,,Mondaire Jones,AF,M,rep,NY,1987-05-18
+514,Bice,Stephanie,I.,,,Stephanie I. Bice,WO,F,rep,OK,1973-11-11
+515,Bentz,Cliff,Stewart,,,Cliff Bentz,WO,M,rep,OR,1952-01-12
+516,Mace,Nancy,Ruth,,,Nancy Mace,WO,F,rep,SC,1977-12-04
+517,Harshbarger,Diana,,,,Diana Harshbarger,WO,F,rep,TN,1960-01-01
+518,Fallon,Patrick,Edward,,Pat,Pat Fallon,WO,M,rep,TX,1967-12-19
+519,Pfluger,August,Lee,II,,August Pfluger,WO,M,rep,TX,1978-12-28
+520,Jackson,Ronny,Lynn,,,Ronny Jackson,WO,M,rep,TX,1967-05-04
+521,Nehls,Troy,E.,,,Troy E. Nehls,WO,M,rep,TX,1968-04-07
+522,Gonzales,Ernest,Anthony,,Tony,Tony Gonzales,HA,M,rep,TX,1980-10-10
+523,Van Duyne,Beth,Ann,,,Beth Van Duyne,WO,F,rep,TX,1970-11-16
+524,Moore,Blake,David,,,Blake D. Moore,WO,M,rep,UT,1980-06-22
+525,Owens,Clarence,,,Burgess,Burgess Owens,AF,M,rep,UT,1951-08-02
+526,Good,Robert,G.,,Bob,Bob Good,WO,M,rep,VA,1965-09-11
+527,Strickland,Marilyn,,,,Marilyn Strickland,"AS, AF",F,rep,WA,1962-09-25
+528,Fitzgerald,Scott,L.,,,Scott Fitzgerald,WO,M,rep,WI,1963-11-16
+529,Padilla,Alejandro,,,Alex,Alex Padilla,HA,M,sen,CA,1973-03-22
+530,Ossoff,Jon,,,,Jon Ossoff,WO,M,sen,GA,1987-02-16
+531,Warnock,Raphael,Gamaliel,,,Raphael G. Warnock,AF,M,sen,GA,1969-07-23
+532,Tenney,Claudia,,,,Claudia Tenney,WO,F,rep,NY,1961-02-04
+533,Letlow,Julia,,,,Julia Letlow,WO,F,rep,LA,1981-03-16
+534,Carter,Troy,Anthony,,,Troy A. Carter,WO,M,rep,LA,1963-10-26
+535,Stansbury,Melanie,Ann,,,Melanie A. Stansbury,WO,F,rep,NM,1979-01-31
+536,Ellzey,Jake,,,,Jake Ellzey,WO,M,rep,TX,1970-01-24
+537,Brown,Shontel,M.,,,,AF,F,rep,OH,1975-06-24
+538,Carey,Mike,,,,,WO,M,rep,OH,1971-03-13
+539,Cherfilus-McCormick,Sheila,,,,,WO,F,rep,FL,1979-01-25

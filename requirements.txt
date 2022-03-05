@@ -1,0 +1,18 @@
+pandas
+spacy==3.2
+scipy
+scikit_posthocs
+matplotlib
+nltk
+seaborn
+jinja2
+
+# MSFT presidio
+presidio_analyzer
+presidio_anonymizer
+
+# AWS
+boto3
+
+# GCP
+google-cloud-dlp
