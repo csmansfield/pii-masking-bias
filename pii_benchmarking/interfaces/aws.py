@@ -103,7 +103,3 @@ class Masker:
             r = utils.standardized_person_ent(r)
             entities.append(r)
         return utils.get_standardized_result('aws', text, entities)
-
-# input_uri = f's3://lp-pii/{input_key}'
-# output_uri = 's3://lp-pii/'
-# response = masker.start_pii_entities_detection_job(InputDataConfig={'S3Uri': input_uri, 'InputFormat': 'ONE_DOC_PER_LINE'}, OutputDataConfig={'S3Uri': output_uri}, Mode='ONLY_OFFSETS', DataAccessRoleArn=f'arn:aws:iam::{iam_arn}:role/comprehendTopicModel', LanguageCode='en')

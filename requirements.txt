@@ -6,6 +6,7 @@ matplotlib
 nltk
 seaborn
 jinja2
+jupyter
 
 # MSFT presidio
 presidio_analyzer
